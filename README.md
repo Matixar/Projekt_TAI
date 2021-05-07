@@ -1,4 +1,4 @@
-Projekt na Tworzenie Aplikacji Internetowych z wykorzystaniem bazy danych MySQL i serwera Apache zawierający możliwość logowania użytkownika i CRUD bazy danych.
+Projekt na Tworzenie Aplikacji Internetowych z wykorzystaniem bazy danych MySQL zawierający możliwość logowania użytkownika i CRUD księgi gości.
 <img src="https://i.imgur.com/g3OixV7.png" alt="strona główna">
 
 <img src="https://i.imgur.com/VgSrtmj.png" alt="księga gości">
