@@ -59,3 +59,11 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+Projekt na Tworzenie Aplikacji Internetowych z wykorzystaniem bazy danych MySQL i serwera Apache zawierający możliwość logowania użytkownika i CRUD bazy danych.
+<img src="https://i.imgur.com/g3OixV7.png" alt="strona główna">
+
+<img src="https://i.imgur.com/VgSrtmj.png" alt="księga gości">
+
+W projekcie zawarte są również nagrania utworów Fryderyka Chopina w osobistym wykonaniu.
