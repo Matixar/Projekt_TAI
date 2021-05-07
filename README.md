@@ -1,3 +1,11 @@
+Projekt na Tworzenie Aplikacji Internetowych z wykorzystaniem bazy danych MySQL i serwera Apache zawierający możliwość logowania użytkownika i CRUD bazy danych.
+<img src="https://i.imgur.com/g3OixV7.png" alt="strona główna">
+
+<img src="https://i.imgur.com/VgSrtmj.png" alt="księga gości">
+
+W projekcie zawarte są również nagrania utworów Fryderyka Chopina w osobistym wykonaniu.
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
@@ -61,9 +69,3 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 
-Projekt na Tworzenie Aplikacji Internetowych z wykorzystaniem bazy danych MySQL i serwera Apache zawierający możliwość logowania użytkownika i CRUD bazy danych.
-<img src="https://i.imgur.com/g3OixV7.png" alt="strona główna">
-
-<img src="https://i.imgur.com/VgSrtmj.png" alt="księga gości">
-
-W projekcie zawarte są również nagrania utworów Fryderyka Chopina w osobistym wykonaniu.
